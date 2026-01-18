@@ -1,0 +1,7 @@
+// It enable autocomplete / suggestions in IDE
+
+{
+    "typeAcquisition": {
+      "include": ["cypress"]
+    }
+  }
